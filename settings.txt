@@ -1,0 +1,3 @@
+dmi-link: https://dmi.unibas.ch/en/studies/computer-science/courses-in-fall-semester-2022/lecture-planning-and-optimization/?no_cache=1
+
+screen-or-printer: screen
